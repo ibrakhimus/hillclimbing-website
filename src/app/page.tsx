@@ -31,7 +31,7 @@ export default function Home() {
 
         {/* Tagline */}
         <p className="text-2xl text-gray-600 font-normal leading-relaxed opacity-0 animate-fade-in-up animate-delay-200">
-          Expert data annotation, at your service.
+          Domain expert data annotation, at your service.
         </p>
 
         {/* Contact Section */}
@@ -44,8 +44,7 @@ export default function Home() {
             >
               inquiry@hillclimb.ing
             </a>
-            ,
-            <br />
+            {" "}—{" "}
             we&apos;ll respond within 10 hours.
           </p>
         </div>
