@@ -31,13 +31,13 @@ export default function Home() {
 
         {/* Tagline */}
         <p className="text-2xl text-gray-600 font-normal leading-relaxed opacity-0 animate-fade-in-up animate-delay-200">
-          Quality data annotation, at your service.
+          Expert data annotation, at your service.
         </p>
 
         {/* Contact Section */}
         <div className="bg-gray-50 rounded-lg px-20 py-6 max-w-xl mx-auto border-1 border-gray-200 opacity-0 animate-fade-in-up animate-delay-400">
           <p className="text-gray-700 text-lg leading-relaxed">
-            Shoot us an email{" "}
+            Shoot us an email at{" "}
             <a
               href="mailto:inquiry@hillclimb.ing"
               className="text-black font-medium hover:underline"
