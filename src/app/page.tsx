@@ -42,7 +42,7 @@ export default function Home() {
             </a>
             ,
             <br />
-            we'll respond within 10 hours.
+            we&apos;ll respond within 10 hours.
           </p>
         </div>
       </main>
