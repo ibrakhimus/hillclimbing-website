@@ -22,7 +22,11 @@ export default function Home() {
               />
             </svg>
           </div>
-          <h1 className="text-7xl text-black font-bold">hillclimbing</h1>
+          <h1 className="text-7xl text-black font-bold">
+            hillclimb
+            <span className="inline-block w-2.5 h-2.5 bg-black rounded-full mx-0.5 align-baseline"></span>
+            ing
+          </h1>
         </div>
 
         {/* Tagline */}
