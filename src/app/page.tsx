@@ -44,8 +44,9 @@ export default function Home() {
             >
               inquiry@hillclimb.ing
             </a>
-            {" "}—{" "}
-            we&apos;ll respond within 10 hours.
+            ,
+            <br />
+            we&apos;ll respond back within 10 hours.
           </p>
         </div>
       </main>
