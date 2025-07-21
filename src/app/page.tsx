@@ -31,7 +31,7 @@ export default function Home() {
 
         {/* Tagline */}
         <p className="text-2xl text-gray-600 font-normal leading-relaxed opacity-0 animate-fade-in-up animate-delay-200">
-          Domain expert data annotation, at your service.
+          Quality data annotation, at your service.
         </p>
 
         {/* Contact Section */}
